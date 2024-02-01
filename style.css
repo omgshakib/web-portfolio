@@ -11,9 +11,6 @@ h2{
 p{
     color: dimgray;
 }
-.orange-highlight{
-    color: orange;
-}
 .half-width{
     width: 40%;
     float: left;
@@ -21,7 +18,7 @@ p{
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
@@ -68,4 +65,40 @@ section{
     text-align: center;
     color: black;
     font-size: 12px;
+}
+#o{
+    color: rgb(43, 73, 173);
+}
+#M{
+    color: rgb(150, 32, 32);
+}
+#G{
+    color: rgb(201, 159, 22);
+}
+#s{
+    color: rgb(23, 76, 145);
+}
+#H{
+    color: rgb(207, 58, 58);
+}
+#A{
+    color: rgb(219, 184, 25);
+}
+#K{
+    color: rgb(23, 76, 145);
+}
+#I{
+    color: rgb(39, 114, 39);
+}
+#B{
+    color: rgb(207, 58, 58);
+}
+#first-images{
+    padding-top: 200px;
+}
+#welcome{
+    font-family: cursive;
+}
+.orange-highlight{
+    color: orange;
 }
